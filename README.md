@@ -1,5 +1,7 @@
 # Phân tích tình hình chiến dịch tiếp thị SEO của công ty UNIACE
 
+**Link Notion**: https://south-fine-1b1.notion.site/Project-3-Ph-n-t-ch-t-nh-h-nh-chi-n-d-ch-ti-p-th-SEO-c-a-c-ng-ty-UNIACE-1237359e5f5880ebb4c3c0e77784fe2a?pvs=4
+
 # 1. TỔNG QUAN VỀ CÔNG TY VÀ CHIẾN DỊCH TIẾP THỊ SEO
 
 Công ty TNHH **UNIACE** là một đơn vị chuyên về **lĩnh vực giáo dục**, với sứ mệnh cung cấp các **khóa học và kiến thức sâu rộng** liên quan đến **Khoa học Dữ liệu**. Nhằm gia tăng **nhận diện thương hiệu** và tiếp cận đối tượng khách hàng mục tiêu, công ty đã triển khai một **chiến dịch Tiếp thị SEO** vào ngày **1 tháng 8 năm 2022**. Mục tiêu chính của chiến dịch này là **tối ưu hóa khả năng hiển thị** của website trên các công cụ tìm kiếm và **nâng cao trải nghiệm người dùng**.
