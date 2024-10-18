@@ -1,4 +1,4 @@
-# [Project 3] Phân tích tình hình chiến dịch tiếp thị SEO của công ty UNIACE
+# Phân tích tình hình chiến dịch tiếp thị SEO của công ty UNIACE
 
 # 1. TỔNG QUAN VỀ CÔNG TY VÀ CHIẾN DỊCH TIẾP THỊ SEO
 
