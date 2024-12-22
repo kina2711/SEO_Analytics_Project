@@ -1,6 +1,6 @@
 # Phân tích tình hình chiến dịch tiếp thị SEO của công ty UNIACE
 
-**Link Notion**: https://south-fine-1b1.notion.site/Project-3-Ph-n-t-ch-t-nh-h-nh-chi-n-d-ch-ti-p-th-SEO-c-a-c-ng-ty-UNIACE-1237359e5f5880ebb4c3c0e77784fe2a?pvs=4
+**Link Notion**: [https://rabbitdata.notion.site/Project-3-Ph-n-t-ch-t-nh-h-nh-chi-n-d-ch-ti-p-th-SEO-c-a-c-ng-ty-UNIACE-1237359e5f5880ebb4c3c0e77784fe2a?pvs=4](url)
 
 # 1. TỔNG QUAN VỀ CÔNG TY VÀ CHIẾN DỊCH TIẾP THỊ SEO
 
